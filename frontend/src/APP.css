@@ -1,0 +1,41 @@
+*{
+    background-color: cornflowerblue;
+}
+
+
+
+.appcontainer
+{
+    display:flex;
+  align-items: center;
+   flex-direction: column;
+    text-align: center;
+}
+
+.inputs > input
+{
+    color: #000;
+    margin: 10px;
+ text-align: center;
+ padding: 10px;
+ font-size: 20px;
+ border-radius:10px;
+ outline: none;
+ border: 2px solid #f06e0f;
+}
+
+button
+{
+    cursor: pointer;
+}
+
+table 
+{
+  padding: 5px 10px;
+background-color: crimson;
+width:30%;
+}
+th{
+    color: grey;
+    background-color:rgb(133, 11, 36);
+}
